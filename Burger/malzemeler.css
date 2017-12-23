@@ -1,0 +1,106 @@
+.ust_ekmek{
+  height: 25px;
+  width: 150px;
+  background-color: #dba83b;
+  border-radius: 30px 30px 5px 5px;
+  border-bottom: solid 5px rgba(0, 0, 0, 0.1);
+  margin-left: auto;
+    margin-right: auto;
+}
+.kofte{
+  height: 18px;
+  width: 175px;
+  background-color: #493301;
+  border-radius: 10px 10px 10px 10px;
+  border-bottom: solid 5px rgba(0, 0, 0, 0.5  );
+  margin-left: auto;
+      margin-right: auto;
+}
+.peynir{
+  height: 4px;
+  width: 140px;
+  background-color: #ffef14;
+  border-radius: 10px 10px 10px 10px;
+  border-bottom: solid 1px #ffef14;
+  margin-left: auto;
+    margin-right: auto;
+}
+
+#ana_div {
+
+    height: 20px;
+    width: 175px;
+    background-color: #493301;
+    border-radius: 10px 10px 10px 10px;
+    border-bottom: solid 5px rgba(0, 0, 0, 0.5  );
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.e_p_1 {
+
+    float: none;
+    display: inline-block ;
+    height: 0px;
+    width: 60px;
+    margin: 0px;
+    color: #FFF;
+
+}
+.e_p_2 {
+
+    float: none;
+    display: inline-block;
+    height: 0px;
+    width: 60px;
+    margin: 0px;
+    color: #FFF;
+}
+.e_p_3{
+    float: none;
+    display: inline-block ;
+    height: 0px;
+    width: 60px;
+    margin: 0px;
+    color: #FFF;
+
+
+}
+#erimis_peynir1{
+  height: 0px;
+  width: 0px;
+  border-style: solid;
+  border-width: 15px 12px 0px 12px;
+  border-color: #ffef14 transparent transparent transparent;
+  border-radius: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 19px;
+}
+#erimis_peynir2{
+  height: 0px;
+  width: 0px;
+  border-style: solid;
+  border-width: 15px 12px 0px 12px;
+  border-color: #ffef14 transparent;
+  border-radius: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 28px;
+}
+#erimis_peynir3{
+  height: 0px;
+  width: 0px;
+  border-style: solid;
+  border-width: 15px 12px 0px 12px;
+  border-color: #ffef14 transparent;
+  border-radius: 0px 0px 0px 0px;
+  margin: 0px 0px 0px 28px;
+}
+
+.alt_ekmek{
+  height: 20px;
+  width: 150px;
+  background-color: #dba83b;
+  border-radius: 5px 5px 30px 30px;
+  border-bottom: solid 5px rgba(0, 0, 0, 0.1);
+  margin-left: auto;
+    margin-right: auto;
+}
